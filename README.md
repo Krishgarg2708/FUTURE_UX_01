@@ -4,11 +4,6 @@ A modern, responsive, conversion-focused dental clinic website built to improve 
 
 This project was created as part of the Future Interns UI/UX Design Task (2026) and focuses on solving real-world usability and conversion problems commonly found in local service business websites.
 
----
-
-#  Live Demo
-
-🔗 Live Website: [LIVE LINK]
 
 ---
 
