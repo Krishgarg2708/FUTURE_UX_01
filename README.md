@@ -6,13 +6,13 @@ This project was created as part of the Future Interns UI/UX Design Task (2026) 
 
 ---
 
-# 🚀 Live Demo
+#  Live Demo
 
 🔗 Live Website: [LIVE LINK]
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Most local service business websites struggle with:
 
@@ -34,7 +34,7 @@ The goal was not just to design attractive screens, but to create a realistic bu
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 The website was designed to:
 
@@ -47,7 +47,7 @@ The website was designed to:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 * React.js
 * Vite
@@ -58,7 +58,7 @@ The website was designed to:
 
 ---
 
-# ✨ Features
+#  Features
 
 ## Homepage
 
@@ -89,7 +89,7 @@ The website was designed to:
 
 ---
 
-# 📱 Responsive Design
+# Responsive Design
 
 The website is fully responsive across:
 
@@ -107,7 +107,7 @@ Special attention was given to:
 
 ---
 
-# 🎨 UI/UX Design Decisions
+#  UI/UX Design Decisions
 
 ## 1. Trust-Focused Design
 
@@ -155,7 +155,7 @@ Since many users discover local services through mobile devices, the interface w
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 src/
@@ -172,23 +172,24 @@ src/
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Homepage
 
-(Add screenshot here)
+<img width="1901" height="815" alt="image" src="https://github.com/user-attachments/assets/d33292b5-6b2f-453a-944b-0c3e27c5c030" />
+
 
 ## Services Page
 
-(Add screenshot here)
+<img width="1896" height="814" alt="image" src="https://github.com/user-attachments/assets/00888f1e-64c0-418d-a530-e92c0f457f42" />
 
 ## Contact Page
 
-(Add screenshot here)
+<img width="1888" height="736" alt="image" src="https://github.com/user-attachments/assets/28aa98ee-70ee-43eb-ade4-c63f4fc2de17" />
 
 ---
 
-# 🔥 Key Learning Outcomes
+#  Key Learning Outcomes
 
 Through this project, I improved my understanding of:
 
@@ -201,7 +202,7 @@ Through this project, I improved my understanding of:
 
 ---
 
-# 🧠 UX Principles Applied
+#  UX Principles Applied
 
 * Clear information hierarchy
 * Consistent spacing system
@@ -212,7 +213,7 @@ Through this project, I improved my understanding of:
 
 ---
 
-# 📦 Installation
+#  Installation
 
 Clone the repository:
 
@@ -234,7 +235,7 @@ npm run dev
 
 ---
 
-# 🌍 Deployment
+#  Deployment
 
 This project can be deployed easily using:
 
@@ -243,17 +244,16 @@ This project can be deployed easily using:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
-[YOUR NAME]
+Krish Garg
+LinkedIn: https://www.linkedin.com/in/krish-garg-047649330/
 
-LinkedIn: [YOUR LINKEDIN]
-
-GitHub: https://github.com/[YOUR_GITHUB_USERNAME]
+GitHub: https://github.com/Krishgarg2708
 
 ---
 
-# 🙌 Acknowledgements
+#  Acknowledgements
 
 Task provided by:
 
