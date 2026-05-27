@@ -1,0 +1,6 @@
+{
+  "name": "SmileCraft Dental",
+  "description": "A premium, highly-converting responsive dental clinic website with customizable services, active lead capturing, before/after showcases, and dynamic FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
